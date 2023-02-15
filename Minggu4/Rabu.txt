@@ -1,0 +1,5 @@
+List biasa
+List<String> mhs = new ArrayList<>();
+
+List immutable (fixed)
+List<String> mhs = List.of("Isep Lutpi", "Nur", "wk");
